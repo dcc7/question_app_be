@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Question App JSON Data</title>
+</head>
+<body>
+
+<script>
+  fetch('data.json')
+    .then(response => response.json())
+    .then(jsonData => {
+      var jsonString = JSON.stringify(jsonData);
+      document.contentType = 'application/json';
+      document.write(jsonString);
+    })
+    .catch(error => console.error('Error fetching JSON:', error));
+</script>
+
+</body>
+</html>

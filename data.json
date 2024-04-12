@@ -1,0 +1,121 @@
+{
+    "message": "IE Question App Data",
+    "data": {
+      "HSC Chemistry": {
+        "Module 5: Equilibrium & Acid Reactions": {
+            "Static and Dynamic Equilibrium": [
+                {
+                    "difficulty": "easy",
+                    "module": 1,
+                    "topic": "Projectile Motion",
+                    "title": "Question One",
+                    "body": "A ball is thrown at 40 degrees to the horizontal at 50 metres per second",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Projectile_motion.png",
+                },
+                {
+                    "difficulty": "medium",
+                    "module": 2,
+                    "topic": "Circular Motion",
+                    "title": "Question Two",
+                    "body": "A ball is twirlled on a string at 50 metres per second",
+                    "image": "https://o.quizlet.com/lcRXPYMEEuCz1W-nJHAq-Q_b.png"
+                },
+            ],
+            "Factors that Affect Equilibrium": [],
+            "Calculating the Equilibrium Constant": [],
+            "Solution Equilibria": []
+        }, 
+        "Module 6: Acid/Base Reactions": {
+            "Properties of Acids and Bases": [],
+            "Using Bronsted-Lowry Theory": [],
+            "Quantitative Analysis": []
+        },
+        "Module 7: Organic Chemistry": {
+            "Nomenclature": [],
+            "Hydrocarbons": [],
+            "Products of Reactions Involving Hydrocarbons": [],
+            "Alcohols": [],
+            "Reactions of Organic Acids and Bases": [],
+            "Polymers": []
+        },
+        "Module 8: Applying Chemical Ideas": {
+            "Analysis of Inorganic Substances": [],
+            "Analysis of Organic Substances": [],
+            "Chemical Synthesis and Design": []
+            }
+      },
+      "HSC Physics": {
+        "Module 5: Advanced Mechanics": {
+            "Projectile Motion": [],
+            "Circular Motion": [],
+            "Motion in Gravitational Fields": []
+        },
+        "Module 6: Electromagnetism": {
+            "Charged Particles, Conductors and Electric and Magnetic Fields": [],
+            "The Motor Effect": [],
+            "Electromagnetic Induction": [],
+            "Applications of the Motor Effect": []
+        },
+        "Module 7: The Nature of Light": {
+            "Electromagnetic Spectrum": [],
+            "Light: Wave Model": [],
+            "Light: Quantum Model": [],
+            "Light and Special Relativity": []
+        },
+        "Module 8: From the Universe to the Atom": {
+            "Origins of the Elements": [],
+            "Structure of the Atom": [],
+            "Quantum Mechanical Nature of the Atom": [],
+            "Properties of the Nucleus": [],
+            "Deep Inside the Atom": []
+        }
+      },
+      "Preliminary Chemistry": {
+        "Module 1: Properties & Structure of Matter": {
+            "Properties of Matter": [],
+            "Atomic structure and atomic mass": [],
+            "Periodicity": [],
+            "Bonding": []
+        },
+        "Module 2: Introduction to Quantitative Chemistry": {
+            "Chemical Reactions and Stoichiometry": [],
+            "Mole Concept": [],
+            "Concentration and Molarity": [],
+            "Gas Laws": []
+        },
+        "Module 3: Reactive Chemistry": {
+            "Chemical Reactions": [],
+            "Predicting Reactions of Metals": [],
+            "Rates of Reactions": []
+        },
+        "Module 4: Drivers of Reactions": {
+            "Energy Changes in Chemical Reactions": [],
+            "Enthalpy and Hess's Law": [],
+            "Entopy and Gibbs Free Energy": []
+        }
+      },
+      "Preliminary Physics": {
+        "Module 1: Kinematics": {
+            "Motion in a Straight Line": [],
+            "Motion on a Plane": []
+        },
+        "Module 2: Dynamics": {
+            "Forces": [],
+            "Forces, Acceleration and Energy": [],
+            "Momentum, Energy and Simple Systems": []
+        },
+        "Module 3: Waves & Thermodynamics": {
+            "Wave Properties": [],
+            "Wave Behaviour": [],
+            "Sound Waves": [],
+            "Ray Model of Light": [],
+            "Thermodynamics": []
+        },
+        "Module 4: Electricity & Magnetism": {
+            "Electrostatics": [],
+            "Electric Circuits": [],
+            "Magnetism": []
+        }
+      }
+    }
+  }
