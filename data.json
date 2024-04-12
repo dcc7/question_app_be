@@ -10,7 +10,7 @@
                     "topic": "Projectile Motion",
                     "title": "Question One",
                     "body": "A ball is thrown at 40 degrees to the horizontal at 50 metres per second",
-                    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Projectile_motion.png",
+                    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Projectile_motion.png"
                 },
                 {
                     "difficulty": "medium",
@@ -19,7 +19,7 @@
                     "title": "Question Two",
                     "body": "A ball is twirlled on a string at 50 metres per second",
                     "image": "https://o.quizlet.com/lcRXPYMEEuCz1W-nJHAq-Q_b.png"
-                },
+                }
             ],
             "Factors that Affect Equilibrium": [],
             "Calculating the Equilibrium Constant": [],
