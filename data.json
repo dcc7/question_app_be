@@ -6,7 +6,7 @@
             "Static and Dynamic Equilibrium": [
                 {
                     "difficulty": "easy",
-                    "module": 1,
+                    "module": "1",
                     "topic": "Projectile Motion",
                     "title": "Question One",
                     "body": "A ball is thrown at 40 degrees to the horizontal at 50 metres per second",
@@ -14,7 +14,7 @@
                 },
                 {
                     "difficulty": "medium",
-                    "module": 2,
+                    "module": "2",
                     "topic": "Circular Motion",
                     "title": "Question Two",
                     "body": "A ball is twirlled on a string at 50 metres per second",
